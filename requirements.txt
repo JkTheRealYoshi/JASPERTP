@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+python-binance
+Flask
+Keras
+tensorflow
+pyalgotrade
+scikit-learn
+request
